@@ -29,11 +29,11 @@
 
 ### 🚀 Highlighted Repositories & Work
 
-#### 🎮 [Algorithm-driven Game Project](https://github.com/bersious/your-game-repo)
+#### 🎮 [Algorithm-driven Game Project](https://github.com/bersious/Shapes-Wars)
 - Designed and built game mechanics highlighting core **Data Structures & Algorithms (DSA)**, state search, and efficient data representations.
 - Optimized logic flow and real-time computational performance.
 
-#### 📈 [Machine Learning Regression Pipelines](https://github.com/bersious/your-ml-repo)
+#### 📈 [Machine Learning Regression Pipelines](https://github.com/bersious/ml-course-notes)
 - End-to-end implementation of foundational regression models (Simple, Multiple, Polynomial Regression) on benchmark datasets.
 - Applied feature engineering, data preprocessing pipelines, and visual evaluation using Scikit-Learn & Matplotlib.
 
