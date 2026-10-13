@@ -10,6 +10,8 @@
   <img src="./assets/summer-coast.gif" alt="Pixel Summer Coast" width="100%" />
 </p>
 
+**be serious!**
+
 ---
 
 ### 🎓 Academic Background & Focus
