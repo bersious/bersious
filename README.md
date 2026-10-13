@@ -1,4 +1,5 @@
 # Hey there, i'm bersious <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+> */bərˈsiː.əs/* 
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-bersious-181717?style=flat&logo=github)](https://github.com/bersious)
