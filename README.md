@@ -5,6 +5,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat&logo=gmail)](mailto:25521290@gm.uit.edu.vn)
 
+<p align="center">
+  <img src="./assets/summer-coast.gif" alt="Pixel Summer Coast" width="100%" />
+</p>
+
 ---
 
 ### 🎓 Academic Background & Focus
@@ -48,4 +52,8 @@
 
 ---
 
-*Open for technical discussions, student project collaborations, and exploratory research in AI & Algorithms!*
+<p align="center">
+  <img src="./assets/shuba-duck.gif" alt="Dancing Duck" width="160" />
+  <br />
+  <em>Open for technical discussions, student project collaborations, and exploratory research in AI & Algorithms!</em>
+</p>
