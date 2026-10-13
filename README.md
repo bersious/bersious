@@ -1,4 +1,4 @@
-# hey there, i'm bersious <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hey there, i'm bersious <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 > *welcome to my little corner of code, algorithms & curiosity.*
 
