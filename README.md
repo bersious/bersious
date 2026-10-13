@@ -10,7 +10,7 @@
   <img src="./assets/summer-coast.gif" alt="Pixel Summer Coast" width="100%" />
 </p>
 
-**be serious!**
+
 
 ---
 
@@ -58,5 +58,6 @@
 <p align="center">
   <img src="./assets/shuba-duck.gif" alt="Dancing Duck" width="160" />
   <br />
+  **be serious!**
   <em>Open for technical discussions, student project collaborations, and exploratory research in AI & Algorithms!</em>
 </p>
