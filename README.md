@@ -1,8 +1,9 @@
 # Hi there, I'm Bersious 👋
 
 [![GitHub](https://img.shields.io/badge/GitHub-bersious-181717?style=flat&logo=github)](https://github.com/bersious)
+[![Facebook](https://img.shields.io/badge/Facebook-bersious-1877F2?style=flat&logo=facebook)](https://www.facebook.com/bersious)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat&logo=gmail)](mailto:your_email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat&logo=gmail)](mailto:25521290@gm.uit.edu.vn)
 
 ---
 
