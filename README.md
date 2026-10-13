@@ -58,6 +58,6 @@
 <p align="center">
   <img src="./assets/shuba-duck.gif" alt="Dancing Duck" width="160" />
   <br />
-  <sub><em>be serious!</em></sub>
+  <h3><em>be serious!</em></h3>
   <em>Open for technical discussions, student project collaborations, and exploratory research in AI & Algorithms!</em>
 </p>
