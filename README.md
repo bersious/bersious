@@ -39,6 +39,11 @@
 
 ### 🚀 Highlighted Repositories & Work
 
+#### 🛡️ [SONARA · Zero-Trust Audio Vault](https://github.com/bersious/Foodseekers) · [![Website](https://img.shields.io/badge/Live_Demo-bersious.io.vn/rmit-b8f36b?style=flat&logo=safari&logoColor=black)](https://bersious.io.vn/rmit)
+- **RMIT Hackathon 2026 (Challenge 2 Winner Track)**: Decentralized unreleased audio vault engineered with **TideCloak Emergent Authority** to eliminate centralized server master keys (`Zero-Master-Key`).
+- Features client-side **AES-256-GCM** encryption, ephemeral in-memory Web Audio API decryption buffer, sub-millisecond authority revocation, acoustic watermarking, and real-time screen-recording tamper watchdog.
+- Coupled with **Challenge 1**: Multilingual Prompt-Injection / Jailbreak Classifier fine-tuned on transformer architectures (`FacebookAI/xlm-roberta-base`), achieving **Top Leaderboard Score (0.96301 Private / 0.96496 Public)**.
+
 #### 🎮 [Algorithm-driven Game Project](https://github.com/bersious/Shapes-Wars)
 - Designed and built game mechanics highlighting core **Data Structures & Algorithms (DSA)**, state search, and efficient data representations.
 - Optimized logic flow and real-time computational performance.
