@@ -1,7 +1,7 @@
 # Hey there, i'm bersious <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 > */bərˈsiː.əs/ (adj.)* 
 
-> `nhan/ 📂`<br>
+> `nhan (仁)/ 📂`<br>
 > └── 📄 *soul.md of Nhan:* [HUMAN.md](https://www.human-md.ai/)
 
 
