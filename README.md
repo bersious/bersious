@@ -1,5 +1,5 @@
 # Hey there, i'm bersious <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-> */bərˈsiː.əs/* 
+> *(adj)* */bərˈsiː.əs/* 
 
 ...
 nhân/ <br>
