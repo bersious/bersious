@@ -1,5 +1,5 @@
 # Hey there, i'm bersious <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-> *(adj)* */bərˈsiː.əs/* 
+> */bərˈsiː.əs/ (adj.)* 
 
 > `nhan/ 📂`<br>
 > └── 📄 *soul.md of Nhan:* [HUMAN.md](https://www.human-md.ai/)
